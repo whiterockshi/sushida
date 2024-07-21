@@ -1,0 +1,2 @@
+# sushida
+automate sushida
